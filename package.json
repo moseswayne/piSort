@@ -1,0 +1,23 @@
+{
+  "name": "pi-sort",
+  "version": "1.0.0",
+  "description": "Sorting algorithm that returns a sorted list with probability 1",
+  "main": "BigNum.js",
+  "dependencies": {
+    "bignumber.js": "^4.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moseswayne/piSort.git"
+  },
+  "author": "moseswayne, dyang108",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moseswayne/piSort/issues"
+  },
+  "homepage": "https://github.com/moseswayne/piSort#readme"
+}
